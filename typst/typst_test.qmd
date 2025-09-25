@@ -1,6 +1,6 @@
 ---
 format: typst
-brand: ../brand/_brand_as_i_wish.yml
+brand: ../brand/_brand.yml
 ---
 
 Minimal Text 
