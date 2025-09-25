@@ -9,18 +9,3 @@ However, the logo is not included in the dashboard.
 Typst does not render at all.
 
 Any help is much appreciated.
-
-Here is my file structure:
-
-.
-└── brand_bug
-    ├── brand
-    │   └── _brand.yml
-    ├── dashboard
-    │   └── dash_test.qmd
-    ├── logos
-    │   └── my_logo.svg
-    ├── revealjs
-    │   └── reveal_test.qmd
-    └── typst
-        └── typst_test.qmd
