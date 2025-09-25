@@ -2,7 +2,7 @@
 format:
   revealjs:
     embed-resources: true
-brand: ../brand/_brand_as_i_wish.yml
+brand: ../brand/_brand.yml
 ---
 
 ## Slight 1
