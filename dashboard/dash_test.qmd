@@ -1,0 +1,8 @@
+---
+format: dashboard
+brand: ../brand/_brand_as_i_wish.yml
+---
+
+# Test
+
+Some text

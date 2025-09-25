@@ -1,0 +1,6 @@
+---
+format: typst
+brand: ../brand/_brand_as_i_wish.yml
+---
+
+Minimal Text 
